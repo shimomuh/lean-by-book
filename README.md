@@ -53,3 +53,18 @@ Jeff Patton 著
 >  
 > 9. 予算  
 >　このソリューションのディスカバリー、構築、改良にかけられる金額、開発時間の予算はどれだけか
+
+### p 242 「15.3 共感、絞り込み、アイデア創出、プロトタイプ、テスト」
+
+> デザイン思考アプローチの最初のステップは共感である。設計プロセスなら、最初 は「調査」になりそうだが、そういう言い方はしていない。共感と言っているのは、 製品を開発した結果として何よりも大切なことが、「その製品のユーザーになると、実 際どう感じるものなのか」を理解することだからだ。
+> ![](https://github.com/shimomuh/lean-by-book/blob/master/src/design-thinking-01.png?raw=true)
+
+### p 246 「15.4 良いものをめちゃくちゃにする方法」
+
+> ![](https://github.com/shimomuh/lean-by-book/blob/master/src/design-thinking-02.png?raw=true)
+
+### p 250 「15.6 リーンスタートアップ思考は 製品設計をどのように変えるか」
+
+> ![](https://github.com/shimomuh/lean-by-book/blob/master/src/design-thinking-02.png?raw=true)
+
+
